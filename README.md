@@ -1,2 +1,2 @@
-# SprigBoot
+# Spring Boot
 Inicio Spring Boot 
